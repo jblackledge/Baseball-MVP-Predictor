@@ -1,4 +1,4 @@
-# MLB-MVP-Prediction
+# MLB-MVP-Predictor
 
 ## Overview
 Uses Machine Learning to predict the MVP of the current season. in both National and American leagues. Trained models using data created by [my very own web-scraper](https://github.com/jblackledge/MLBStatScraper). The data was obtained for every year that a hitter won the MVP, and included only player names, ops, batting-average, RBI's, HR's, and of course whether or not that player was the MVP winner that year.
