@@ -8,3 +8,4 @@ I chose to exclude years that a pitcher won the MVP, because this would likely "
 
 ## Decision Tree
 My first choice in a model was a Decision Tree. Because the MVP is chosen by humans, I wanted to started with a model that can closely mimic human decision-making. Using this model I was able to achieve a 92% prediction accuracy. With about a month left in the current season, it has not picked an ALMVP winner, however the model has already chosen Bryce Harper to win the NLMVP (as of 09-05-2021).
+![Decision Tree Image]()
